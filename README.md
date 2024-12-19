@@ -73,3 +73,8 @@ The CI/CD pipeline is configured using GitHub Actions, automating the build and 
 -   **Deployment Clean-Up:** Manually deleted unnecessary pods to maintain a clean environment.
 
 ## Screenshots
+![Screenshot (1)](https://github.com/user-attachments/assets/dd867965-478d-4f9b-9571-a4024dec09e2)
+
+![Screenshot (17)](https://github.com/user-attachments/assets/bec0b9b1-31eb-4d95-a558-6bbd65830299)
+
+![hub docker com_(Nest Hub)](https://github.com/user-attachments/assets/75cc557c-aef1-4367-b98a-3edb5dac86b6)
