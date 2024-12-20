@@ -28,11 +28,11 @@ Kyosk is a simple React application built with TypeScript and Material-UI, displ
 ## Local Setup with Docker
 1.  **Build the Docker Image:**
     
-    `docker build -t kasiliwachiye/kyosk:latest .` 
+    `docker build -t <your-dockerhub-username>/kyosk:latest .` 
     
 2.  **Run the Docker Container:**
     
-    `docker run -p 80:80 kasiliwachiye/kyosk:latest` 
+    `docker run -p 80:80 <your-dockerhub-username>/kyosk:latest` 
     
 3.  **Access the Application:** Navigate to `http://localhost` in your browser.
 
